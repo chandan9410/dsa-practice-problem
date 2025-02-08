@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-
+//  added comment   to this code 
 
 int fact(int n, int k)
 {
